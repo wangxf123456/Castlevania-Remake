@@ -1,0 +1,11 @@
+C:\Users\bazald\Desktop\simple-platformer\obj\Debug\UnityVS.simple-platformer.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\bazald\Desktop\simple-platformer\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\bazald\Desktop\simple-platformer\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\bazald\Desktop\simple-platformer\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\bazald\Desktop\simple-platformer\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\bazald\Desktop\simple-platformer\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\bazald\Desktop\simple-platformer\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\bazald\Desktop\simple-platformer\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\bazald\Desktop\simple-platformer\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\bazald\Desktop\simple-platformer\obj\Debug\Assembly-CSharp.dll
+C:\Users\bazald\Desktop\simple-platformer\obj\Debug\Assembly-CSharp.pdb

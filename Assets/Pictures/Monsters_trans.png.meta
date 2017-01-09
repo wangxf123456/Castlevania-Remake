@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 3324667a3850a4d48a69fff8724a1e57
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monsters_trans_0
+    21300002: Monsters_trans_1
+    21300004: Monsters_trans_2
+    21300006: Monsters_trans_3
+    21300008: Monsters_trans_4
+    21300010: Monsters_trans_5
+    21300012: Monsters_trans_6
+    21300014: Monsters_trans_7
+    21300016: Monsters_trans_8
+    21300018: Monsters_trans_9
+    21300020: Monsters_trans_10
+    21300022: Monsters_trans_11
+    21300024: Monsters_trans_12
+    21300026: Monsters_trans_13
+    21300028: Monsters_trans_14
+    21300030: Monsters_trans_15
+    21300032: Monsters_trans_16
+    21300034: Monsters_trans_17
+    21300036: Monsters_trans_18
+    21300038: Monsters_trans_19
+    21300040: Monsters_trans_20
+    21300042: Monsters_trans_21
+    21300044: Monsters_trans_22
+    21300046: Monsters_trans_23
+    21300048: Monsters_trans_24
+    21300050: Monsters_trans_25
+    21300052: Monsters_trans_26
+    21300054: Monsters_trans_27
+    21300056: Monsters_trans_28
+    21300058: Monsters_trans_29
+    21300060: Monsters_trans_30
+    21300062: Monsters_trans_31
+    21300064: Monsters_trans_32
+    21300066: Monsters_trans_33
+    21300068: Monsters_trans_34
+    21300070: Monsters_trans_35
+    21300072: Monsters_trans_36
+    21300074: Monsters_trans_37
+    21300076: Monsters_trans_38
+    21300078: Monsters_trans_39
+    21300080: Monsters_trans_40
+    21300082: Monsters_trans_41
+    21300084: Monsters_trans_42
+    21300086: Monsters_trans_43
+    21300088: Monsters_trans_44
+    21300090: Monsters_trans_45
+    21300092: Monsters_trans_46
+    21300094: Monsters_trans_47
+    21300096: Monsters_trans_48
+    21300098: Monsters_trans_49
+    21300100: Monsters_trans_50
+    21300102: Monsters_trans_51
+    21300104: Monsters_trans_52
+    21300106: Monsters_trans_53
+    21300108: Monsters_trans_54
+    21300110: Monsters_trans_55
+    21300112: Monsters_trans_56
+    21300114: Monsters_trans_57
+    21300116: Monsters_trans_58
+    21300118: Monsters_trans_59
+    21300120: Monsters_trans_60
+    21300122: Monsters_trans_61
+    21300124: Monsters_trans_62
+    21300126: Monsters_trans_63
+    21300128: Monsters_trans_64
+    21300130: Monsters_trans_65
+    21300132: Monsters_trans_66
+    21300134: Monsters_trans_67
+    21300136: Monsters_trans_68
+    21300138: Monsters_trans_69
+    21300140: Monsters_trans_70
+    21300142: Monsters_trans_71
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monsters_trans_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 274
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 274
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 279
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 279
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 279
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 281
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 279
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 279
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 230
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 230
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 230
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 253
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 253
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 255
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 254
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 227
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 227
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 229
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 181
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 181
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 181
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 182
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 182
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 195
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_30
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 148
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 146
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 142
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 145
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 150
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 145
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 106
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 102
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 101
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 105
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_46
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_48
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 109
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 105
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 83
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 81
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 83
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_53
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 83
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 81
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 83
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 83
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 83
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_60
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 83
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 87
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 82
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_64
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 82
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_66
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 82
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_67
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 81
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_69
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 80
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_70
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 81
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monsters_trans_71
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 82
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
